@@ -1,0 +1,11 @@
+fruit_1:
+	name: apple
+	price: 100
+
+fruit_2:
+	name: orange
+	price: 200
+
+fruit_3:
+	name: banana
+	price: 100
